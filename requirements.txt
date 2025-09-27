@@ -1,0 +1,10 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+yt-dlp>=2023.12.30
+playwright>=1.40.0
+httpx>=0.25.2
+beautifulsoup4>=4.12.2
+python-dotenv>=1.0.0
+# Alternative packages for Python 3.13 compatibility
+requests>=2.31.0
+aiohttp>=3.8.0

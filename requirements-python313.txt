@@ -1,0 +1,15 @@
+# Requirements pour Python 3.13 - Version compatible
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+yt-dlp>=2023.12.30
+# Playwright sans dépendances problématiques
+playwright>=1.40.0
+# Alternatives pour éviter greenlet
+requests>=2.31.0
+aiohttp>=3.8.0
+httpx>=0.25.2
+beautifulsoup4>=4.12.2
+python-dotenv>=1.0.0
+# Packages de base sans compilation
+urllib3>=2.0.0
+certifi>=2023.0.0
