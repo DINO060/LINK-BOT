@@ -11,7 +11,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # Token de ton bot Telegram
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8487001863:AAF5msQHveeFGXrNmxQWBcFWtGDyvgPvxWw")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 
 def normalize_text(text: str) -> str:
     """Normalise le texte pour le matching fuzzy"""
