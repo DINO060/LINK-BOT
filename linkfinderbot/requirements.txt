@@ -1,0 +1,6 @@
+asyncio
+beautifulsoup4
+lxml
+playwright
+python-telegram-bot==21.6
+rapidfuzz
